@@ -1,0 +1,16 @@
+PODS:
+  - UNCopperImage (0.0.1)
+
+DEPENDENCIES:
+  - UNCopperImage (from `./`)
+
+EXTERNAL SOURCES:
+  UNCopperImage:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  UNCopperImage: 15531ed03c20c4abc847bcf489701dc33c297ddd
+
+PODFILE CHECKSUM: 188f24d3270227c4f05e7f251b932dcd4fb6b3db
+
+COCOAPODS: 1.11.3

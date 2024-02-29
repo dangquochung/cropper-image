@@ -1,0 +1,22 @@
+{
+  "name": "UNCopperImage",
+  "version": "0.0.1",
+  "summary": "A CocoaPods library written in Swift for CropImage",
+  "description": "Cropped image",
+  "homepage": "https://github.com/UNITVN/UNCropperImage",
+  "license": "MIT",
+  "authors": {
+    "luongmanh": "manhld@unitvn.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/UNITVN/UNCropperImage.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "UNCopperImage",
+    "UNCopperImage/**/*.{h,m,swift}"
+  ]
+}

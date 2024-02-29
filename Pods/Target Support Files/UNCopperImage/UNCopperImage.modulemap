@@ -1,0 +1,6 @@
+framework module UNCopperImage {
+  umbrella header "UNCopperImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
